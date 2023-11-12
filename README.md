@@ -1,4 +1,4 @@
-# Projeto: Boss: Lógica de Programação
+# Projeto: Boss: Lógica de Programação - Calculadora
 
 
 ## Resumo
